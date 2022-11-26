@@ -3,9 +3,11 @@ I am Debanjan Basak and I am an undergraduate student pursuing B.Tech in Compute
 
 - 👀 I’m interested in Web Development & Data Science.
 
-- 🌱 I’m currently learning AI/Machine Learning.
+- 🌱 I’m currently learning AI/ML.
 
 - 💞️ I’m looking to collaborate on Projects
+
+- Currently working on iOS Mac lab, for iOS app development course.
 
 You can reach me to through my <a class="btn" href="mailto:basakdebanjan2001@gmail.com">email</a>
 
