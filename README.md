@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/debanjanbasak23" target="blank"><img src="https://img.shields.io/twitter/follow/debanjanbasak23?logo=twitter&style=for-the-badge" alt="debanjanbasak23" /></a> </p>
 
+- 🔭 I’m currently pursuing Computer Science Engineering
+
 - 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://debanjanbasak23.dorik.io/](https://debanjanbasak23.dorik.io/)
